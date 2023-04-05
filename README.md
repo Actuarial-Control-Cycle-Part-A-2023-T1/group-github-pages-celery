@@ -23,9 +23,7 @@ This is written in markdown language.
 More information on GitHub Pages can be found [here](https://pages.github.com/)
 ![](Actuarial.gif)
 
-
-Hello!!!
-### Executive Summary
+#### Executive Summary
 With climate-related catastrophes increasing over time in Storslysia, its residents face the imminent threat of displacement, and the economy faces a decline due to the costs of supporting impacted individuals. The team has been tasked with alleviating the adverse financial impacts of climate change by designing and implementing a long-term social insurance program. This report will outline the program’s design and the method for pricing under two climate scenarios.
 
 The final program to be utilised offers two solutions to minimise cost and maximise results. The first is to incentivize residents in high-risk areas to voluntarily relocate which will mitigate larger costs later, and the other is to help impacted individuals who are permanently displaced because of a catastrophe. To incentivise relocation, the program offers a 20% above-market price buy-back scheme to households considered to be high-risk; this is capped at 2000 houses per year to avoid excessive claims. For those involuntarily displaced, a lumpsum payment will be distributed, calculated based on the property damage value per household, as well as income support and accommodation expenses for those applicable. The values we have calculated are a result of strenuous testing and comparisons to obtain an optimal solution.
