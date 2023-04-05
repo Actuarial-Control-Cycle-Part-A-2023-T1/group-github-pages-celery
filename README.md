@@ -39,6 +39,8 @@ Our proposed program restricts the cost associated with relocation (voluntary or
 ## Key metrics
 This program is a long-term solution that consists of multiple stages. The following table illustrates the key metrics to be analysed throughout and the rationale behind them.
 
+![Capture](https://user-images.githubusercontent.com/102905880/230059446-7eec3f9f-a939-4204-8e58-e04d4419553d.PNG)
+
 # Program Design
 The proposed program provides financial support for households in high-risk areas to voluntarily relocate or to recover after being affected by a catastrophic event. Households are encouraged to voluntarily relocate through a buyback scheme which provides financial assistance to encourage residents in vulnerable areas to voluntarily relocate to a lower-risk area, therefore minimising costs from the involuntary scheme. Properties bought back will become government-owned and deemed unhabitable after the buyback.
 
