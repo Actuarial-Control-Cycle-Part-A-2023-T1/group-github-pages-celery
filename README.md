@@ -90,7 +90,7 @@ The IPCC’s SSPs importantly highlight projections on population growth, econom
 Our calculations adjust for the effects of inflation, meaning all projected values can be directly compared in dollar amounts today. Where specified in the IPCC data, this adjustment is already performed so no further adjustment for inflation is considered. In all other scenarios, it was assumed that projected figures did not account for inflation. Annual future inflation figures were randomly sampled from the past 40 years of Storslysia inflation data and future figures were subsequently adjusted to the present day using these sampled rates.
 
 To project the economic impact of the involuntary scheme, these key assumptions were made:
-<br><br> • Property damage estimates below a threshold of Ꝕ250 were assumed to be Ꝕ0 to account for the possibility that hazard events result in no property damage.
+* Property damage estimates below a threshold of Ꝕ250 were assumed to be Ꝕ0 to account for the possibility that hazard events result in no property damage.
 <br> • Historical property damage included replacement of household items and housing repairs.
 
 To project the economic impact of the voluntary scheme, these key assumptions were made:
