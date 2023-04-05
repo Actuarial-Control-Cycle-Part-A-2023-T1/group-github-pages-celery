@@ -34,3 +34,18 @@ With climate-related catastrophes increasing over time in Storslysia, its reside
 The final program to be utilised offers two solutions to minimise cost and maximise results. The first is to incentivize residents in high-risk areas to voluntarily relocate which will mitigate larger costs later, and the other is to help impacted individuals who are permanently displaced because of a catastrophe. To incentivise relocation, the program offers a 20% above-market price buy-back scheme to households considered to be high-risk; this is capped at 2000 houses per year to avoid excessive claims. For those involuntarily displaced, a lumpsum payment will be distributed, calculated based on the property damage value per household, as well as income support and accommodation expenses for those applicable. The values we have calculated are a result of strenuous testing and comparisons to obtain an optimal solution.
 
 Our proposed program restricts the cost associated with relocation (voluntary or climate-induced) to 10% of Storslysia’s GDP every year. This is significantly lower than without the program and shields the economy from negative financial ramifications. We recommend that both streams of the program be run simultaneously as promoting voluntary relocation will greatly reduce larger costs down the line resulting from forced displacement.
+
+# Objectives
+## Key metrics
+# Product Design
+## Involuntary Scheme
+## Voluntary Scheme
+# Pricing and Costs
+## Without the Program
+## With the Program
+# Assumptions
+# Data and Data Limitations
+# Risk and Risk Mitigation Considerations
+# Recommendation
+# References
+
