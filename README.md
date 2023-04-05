@@ -36,9 +36,12 @@ The final program to be utilised offers two solutions to minimise cost and maxim
 Our proposed program restricts the cost associated with relocation (voluntary or climate-induced) to 10% of Storslysia’s GDP every year. This is significantly lower than without the program and shields the economy from negative financial ramifications. We recommend that both streams of the program be run simultaneously as promoting voluntary relocation will greatly reduce larger costs down the line resulting from forced displacement.
 
 # Objectives
+Climate events are extremely detrimental to Storslysia’s economy due to its high level of uncertainty and the severity of pay-out values when those events do occur. To shield the economy from suffering the worst, this report focuses on mitigating household impact costs. Our objective is to design a social insurance program to manage Storslysia’s exposure to displacement risk; we address both voluntary and forced displacement and focus secondarily on lowering geographic risk and avoiding large disparities in the socio-economic status. There is a strong need to include incentives for voluntary displacement as it harbours much lower costs than if an involuntary claim is made. Climate incidences are often long occurring and to derive a program that is sustainable, we have factored in the community’s needs. Our solution incorporates community consultation and feedback to tailor and adapt the program through both qualitative and quantitative metrics. 
+
 ## Key metrics
 This program is a long-term solution that consists of multiple stages. The following table illustrates the key metrics to be analysed throughout and the rationale behind them.
 
+*Table 1 – Key metrics used to monitor the program.*
 ![Capture](https://user-images.githubusercontent.com/102905880/230059446-7eec3f9f-a939-4204-8e58-e04d4419553d.PNG)
 
 # Program Design
@@ -56,6 +59,7 @@ If a household has multiple owners, a single payment is made to the applicant an
 
 ### Other features and requirements
 **Application review** – Properties eligible for the buyback scheme will be selected based on factors such as whether the property had been damaged due to a catastrophic event in the past and the likelihood of a severe catastrophic event in the future. Furthermore, the applicant must have owned a home in the vulnerable region for a sufficient length of time.
+
 **Low/High-risk regions** – Low-risk regions include regions 1 and 3. High- risk regions include regions 2, 4 and 5. These will be reviewed every year. The risk rating of regions is determined through past experience, including the frequency of catastrophic events and total property damage incurred.
 
 ### Additional incentives
