@@ -53,6 +53,7 @@ If a household has multiple owners, a single payment is made to the applicant an
 
 ### Other features and requirements
 **Application review** – Properties eligible for the buyback scheme will be selected based on factors such as whether the property had been damaged due to a catastrophic event in the past and the likelihood of a severe catastrophic event in the future. Furthermore, the applicant must have owned a home in the vulnerable region for a sufficient length of time.
+
 **Low/High-risk regions** – Low-risk regions include regions 1 and 3. High- risk regions include regions 2, 4 and 5. These will be reviewed every year. The risk rating of regions is determined through past experience, including the frequency of catastrophic events and total property damage incurred.
 
 ### Additional incentives
@@ -64,8 +65,11 @@ Citizens over 18 years old are eligible to apply if their property was damaged o
 
 ### Coverage
 **Home and property damage** – Affected households are entitled to small claims lower than Ꝕ500, while the reimbursement of additional costs will require manual review. Triaging claims aims to minimise costs associated with claims investigation. Home and property damage claims include the replacement of household items and housing repairs.
+
 **Loss of income payments** – If affected residents are temporarily unable to work after the catastrophic event, they are eligible to receive 75% of their income for 8 weeks, capped at Storslysia’s median income.
+
 **Accommodation expenses** – If the property becomes uninhabitable following the catastrophic event, residents are eligible to be compensated for accommodation expenses for 2 weeks.
+
 If the property at risk was rented to a tenant, the landlord is entitled to home and property damage coverage while the tenant may receive loss of income and accommodation expenses if eligible.
 
 ### Implementation timeline
@@ -86,7 +90,7 @@ Ultimately, the goal of the scheme is to reduce the proportion of involuntary di
 # Recommendation
 # References
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/129948833/230050536-e0c4f808-2514-486c-870a-e3779a0b9f06.jpg">
+  <img width="460" height="300" src="![sbpbrui9ebb61](https://user-images.githubusercontent.com/129948833/230050536-e0c4f808-2514-486c-870a-e3779a0b9f06.jpg)">
 </p>
 
 
