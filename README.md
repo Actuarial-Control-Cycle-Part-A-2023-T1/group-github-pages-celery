@@ -37,7 +37,21 @@ Our proposed program restricts the cost associated with relocation (voluntary or
 
 # Objectives
 ## Key metrics
-# Product Design
+
+# Program Design
+The proposed program provides financial support for households in high-risk areas to voluntarily relocate or to recover after being affected by a catastrophic event. Households are encouraged to voluntarily relocate through a buyback scheme which provides financial assistance to encourage residents in vulnerable areas to voluntarily relocate to a lower-risk area, therefore minimising costs from the involuntary scheme. Properties bought back will become government-owned and deemed unhabitable after the buyback.
+
+## Voluntary Scheme
+### Eligiblity to claim
+Citizens over 18 years old are eligible to apply for the buyback scheme if they are an owner of a property in a high-risk region. Only one owner per property can apply. Applications are submitted every two years and reviewed on a case-by-case basis and the top 2000 properties most at risk of property damage from a catastrophic event are selected. Successful applicants must relocate to a low-risk region. The number of eligible properties is determined by ensuring that the objectives are met and adjusted according to the target voluntary relocation proportions in Table 2.
+
+### Coverage
+**Home buyback** – Claimants receive a lump sum valued at 20% above the market price of the property they currently own. The additional 20% of the lump sum above the market price serves as a financial incentive for households in high-risk areas to relocate to lower areas. Furthermore, this ensures that they can afford homes in lower-risk areas as the market prices in such areas are expected to be more costly. It also accounts for the temporary loss of income due to frictional unemployment.
+**Moving costs** – Claimants can reimburse up to a maximum of Ꝕ1000 in moving costs incurred.
+If a household has multiple owners, a single payment is made to the applicant and the distribution of funds is up to their discretion.
+
+## Involuntary Scheme
+
 ### Involuntary Scheme
 ### Voluntary Scheme
 # Pricing and Costs
