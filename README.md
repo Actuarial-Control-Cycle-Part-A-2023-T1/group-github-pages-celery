@@ -42,16 +42,21 @@ Climate events are extremely detrimental to Storslysia’s economy due to its hi
 This program is a long-term solution that consists of multiple stages. The following table illustrates the key metrics to be analysed throughout and the rationale behind them.
 
 *Table 1 – Key metrics used to monitor the program.*
->*** TABULATE TABLE 1 ***
 
-![Capture](https://user-images.githubusercontent.com/102905880/230059446-7eec3f9f-a939-4204-8e58-e04d4419553d.PNG)
+| Metrics  | Frequency | Reason |
+| ------------- | ------------- |-------------|
+| Total pay-outs as a percentage of GDP  | Annually  | Confirms Storslysia is on track to remain financially sound with costs not exceeding 10% of the year’s GDP. |
+| Projected costs  | At the end of each buyback cycle and annually after 2029|Ensures that the future costs continue to remain under 10% of the year’s GDP using up-to-date data for accurate reprojection results. A review to check opportunities to reduce costs can be conducted and implemented to adapt.|
+| Natural disaster occurrence| Annually  |Allows for adjustments for better model accuracy and adjustment to application criteria if risk zone information changes.|
+| Sum of involuntary displacement payments| Annually until 2029 then every 5 years after that|Monitor and expect to see a decrease in future due to the implementation of the program. Revise and adjust the program as needed.|
+| Number of applications| At the end of each buyback cycle|Monitor demand for buyback and adjust the program accordingly.|
+| Community satisfaction | At the end of each buyback cycle |Incorporate the community’s feedback and opinions into the program.|
+
 
 # Program Design
 The proposed program provides financial support for households in high-risk areas to voluntarily relocate or to recover after being affected by a catastrophic event. Households are encouraged to voluntarily relocate through a buyback scheme which provides financial assistance to encourage residents in vulnerable areas to voluntarily relocate to a lower-risk area, therefore minimising costs from the involuntary scheme. Properties bought back will become government-owned and deemed unhabitable after the buyback.
 
 ## Voluntary Scheme
-
->*** TABULATE VOLUNTARY SCHEME ***
 
 ### Eligiblity to claim
 Citizens over 18 years old are eligible to apply for the buyback scheme if they are an owner of a property in a high-risk region. Only one owner per property can apply. Applications are submitted every two years and reviewed on a case-by-case basis and the top 2000 properties most at risk of property damage from a catastrophic event are selected. Successful applicants must relocate to a low-risk region. The number of eligible properties is determined by ensuring that the objectives are met and adjusted according to the target voluntary relocation proportions in Table 1.
@@ -72,8 +77,6 @@ If a household has multiple owners, a single payment is made to the applicant an
 
 ## Involuntary Scheme
 
->*** TABULATE INVOLUNTARY SCHEME ***
-
 ### Eligibility to claim
 Citizens over 18 years old are eligible to apply if their property was damaged or they were forced to cease work due to a catastrophic event. The address of the covered property must be the claimant’s main residence address.
 
@@ -84,22 +87,33 @@ Citizens over 18 years old are eligible to apply if their property was damaged o
 
 **Accommodation expenses** – If the property becomes uninhabitable following the catastrophic event, residents are eligible to be compensated for accommodation expenses for 2 weeks. If the property at risk was rented to a tenant, the landlord is entitled to home and property damage coverage while the tenant may receive loss of income and accommodation expenses if eligible.
 
-### Implementation timeline
+## Implementation timeline
 The timeline in Figure 1 details timeframes for the implementation of the program. There are three cycles of the scheme each being two years in length. The program aims to prioritise individuals most vulnerable to natural disasters within the community and scale to cover proportionally more households over time. Towards the second half of each cycle, there are opportunities for review both internal and external. Community members are consulted for feedback which is evaluated by the committee alongside statistical information to streamline the process. These review cycles identify points of optimisation within the program to improve both implementation efficiency and cost, allowing for the scheme to effectively help those in need in subsequent iterations.
 
 Metrics for both voluntary and involuntary schemes detailed in Objectives will be re-evaluated and claim amounts and the number of eligible households will be adjusted accordingly.
 
 Ultimately, the goal of the scheme is to reduce the proportion of involuntary displacement. Taking the amount of involuntary displacement before the implementation of the scheme as 100%, the scheme aims to decrease the need for displacement by 15%, 25% and 35% through three cycles respectively. These figures are summarised below in Table 2.
 
+
+	
 *Figure 1 – Home Buy-Back Scheme Implementation Timeline*
 
->*** REINSERT FIGURE 1 ***
+<p align="center">
+
+<img width="1634" alt="image" src="https://user-images.githubusercontent.com/88420563/230089056-cc321300-265c-4809-864e-c0995d699168.png" width=50% height=50%>
+
+</p>
 
 *Table 2 – Target Voluntary Relocation Figures for Home Buy-Back Scheme*
 
->*** REDO TABLE 2 ***
+|   |  | Target Proportion EOY|Target Proportion EOY |
+| ------------- | ------------- | ------------- | ------------- |
+|  Year | Cycle Number | Voluntary Relocation | Involuntary Displacement |
+| 2023 and before  | 0  |  0% |  100%  |
+| 2024-2025  | 1  |  15%  |  85% |
+| 2026-2027  | 2  |  40%  |  60%  |
+| 2028-2029+  | 3  |  75%  |  25%  |
 
-<img width="816" alt="Screen Shot 2023-04-05 at 8 18 42 pm" src="https://user-images.githubusercontent.com/113441885/230053206-824701b1-c51f-4828-8448-7038e0c8958b.png">
 
 # Pricing and Costs
 ## Without the Program
@@ -107,13 +121,13 @@ In both short-term and long-term timeframes, the frequency and severity of extre
 
 *Table 3 – IPCC SSP Emission Scenarios*
 
->*** TABULATE TABLE 3 ***
+| Emission Scenario  | RCP and likely SSP |
+| ------------- | ------------- |
+| Low  | RCP2.6 (SSP1 – Sustainability1)|
+| High  | RCP4.5 (SSP5 – Fossil-Fuelled Development2) |	
 
-Emission Scenario	RCP and likely SSP
-Low	RCP2.6 (SSP1 – Sustainability1)
-High	RCP4.5 (SSP5 – Fossil-Fuelled Development2)
-1 – Assumes a gradual but persuasive shift towards sustainable development (IPCC, 2021).
-2 – Assumes rapid economic growth and energy-intensive lifestyles, powered by a strong reliance on fossil fuel energy (IPCC, 2021).
+*1 – Assumes a gradual but persuasive shift towards sustainable development (IPCC, 2021).*
+<br>*2 – Assumes rapid economic growth and energy-intensive lifestyles, powered by a strong reliance on fossil fuel energy (IPCC, 2021).*
 
 These two scenarios represent the lowest and highest Representative Concentration Pathways (RCPs) considered by IPCC, as provided in the Shared Socioeconomic Pathways (SSPs) scenario data. However, it is worth noting that they do not represent the absolute maximum and minimum future emissions.
 
@@ -128,8 +142,12 @@ The overall property damage was estimated over a short-term timeframe of 10 year
 
 *Figure 2 – Expected changes to property damage costs compared to current 10-year average.*
 
->*** INSERT FIGURE 2 GRAPH ***
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/88420563/230093245-977735de-100b-4934-855c-21a4f1abf523.png">
  
+</p>
+
 Figure 2 shows the expected changes to costs of hazards by 2030 and 2100 respectively, under both low and high-emission scenarios. While there are minor decreases in 2030 under both scenarios, by 2100, total costs under both scenarios are expected to increase significantly relative to the current 10-year average. Overall, costs related to Flooding, Hurricane and Other hazards are expected to increase materially, with region 2 being the most susceptible to these natural hazards.
 
 ### Loss of income
@@ -139,7 +157,11 @@ Storslysia’s median household income and population were projected by applying
 
 *Figure 3 – Expected loss of income payments under both timeframes and scenarios.*
 
->*** INSERT FIGURE 3 GRAPH ***
+<p align="center">
+
+<img src="https://user-images.githubusercontent.com/88420563/230093400-11e88058-00d8-4340-9360-16f84d0c109c.png">
+
+</p>
  
 Figure 3 displays a similar trend to Figure 2, with loss of income payments increasing significantly in 2100 in both scenarios. This is primarily driven by the significant increase in both natural hazard frequency and severity in the future, with no effective mechanisms, such as voluntary relocation, to mitigate the climate risks.
 
@@ -147,11 +169,10 @@ Figure 3 displays a similar trend to Figure 2, with loss of income payments incr
 
 *Table 4 – Total projected costs expressed as a percentage of projected GDP.*
 
->*** RETABULATE TABLE 4 ***
-
-	Low Emission Scenario	High Emission Scenario
-Year	2030	2100	2030	2100
-Costs (% of GDP)	14.66%	26.17%	15.95%	89.98%
+|   | Low Emission Scenario |Low Emission Scenario | High Emission Scenario |High Emission Scenario |
+| ------------- | ------------- |------------- |------------- |------------- |
+| Year  | 2030  | 2100  | 2030  | 2100 |
+| Costs (% of GDP) | 14.66% | 26.17% | 15.95% | 89.98% |
 
 As observed from Table 4, without the Program’s proposed voluntary schemes, the costs of natural hazards far exceed the target cost of 10% of Storslysia’s GDP. Most notably, under the high emission scenario, costs more than double the projected GDP by 2100, driven primarily by the significant increase in property damage costs. 
 
@@ -168,10 +189,9 @@ Hence, our analysis shows that the voluntary scheme aims to relocate households 
 
 *Table 5 –Property Damage Per Region as a Proportion of Housing Units.*
 
->*** RETABULATE TABLE 5 ***
-
-Region	1	2	3	4	5	6
-Proportion	2%	33%	4%	14%	38%	8%
+| Region | 1 |2 |3 |4 |5 |6 |
+| ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |
+| Proportion  | 2%  |33%  |4%  |14%  |38%  |8%  |
 
 Property damage is used as the basis to calculate totals for voluntary relocation. Two thresholds are introduced being:
 * Damage factor: defined as the average proportion of total property value that is damaged during natural disasters (10%). 
@@ -181,13 +201,12 @@ Factoring both thresholds, parameters are set for the scheme being that all hous
 
 *Table 6 – Voluntary Relocation Costs for Home Buy-Back Scheme*
 
->*** RETABULATE TABLE 6 ***
-
-Year	Cycle Number	Voluntary Relocation	Cost
-2023 and before	0	0%	Ꝕ0
-2024 – 2025	1	15%	Ꝕ17,638,087,278
-2026 – 2027	2	40%	Ꝕ47,034,899,408
-2028 – 2029 +	3	75%	Ꝕ88,190,436,391
+| Year | Cycle Number|Voluntary Relocation |Cost |
+| ------------- | ------------- |------------- |------------- |
+| 2023 and before  | 0  |0%  |Ꝕ0 |
+| 2024 – 2025  | 1  |15%  |Ꝕ17,638,087,278  |
+| 2026 – 2027  | 2 |40%  |Ꝕ47,034,899,408 |
+| 2028 – 2029 + | 3  |75%  |Ꝕ88,190,436,391 |
 
 The remaining 25% of at-risk households not covered by the home buy-back scheme include households with property damage risk lower than the 10% of damage every 30 years. Analysis has concluded that below this threshold voluntary relocation of households would be more expensive than involuntary displacement support, should the event arise.
 
@@ -195,7 +214,7 @@ Modelling these factors over time, the upfront investment in voluntary relocatio
 
 *Figure 4 – Scheme Cost Projections Across SSP Scenarios*
 
->*** INSERT FIGURE 4 (2) ***
+<p align="center"> <img src="https://user-images.githubusercontent.com/88420563/230096183-5731e942-2465-448d-8182-cda537ffbe26.png"><img src="https://user-images.githubusercontent.com/88420563/230096204-bfa59ac8-60e8-4b49-b1a7-4b4781ffa552.png"></p>
 
 # Assumptions
 The IPCC’s SSPs importantly highlight projections on population growth, economic growth, and Green House Gas (GHG) emissions. In calculating income projections, present-day figures are indexed in line with GDP growth as outlined by the four major SSP scenarios. These scenarios provide estimates for future GDP, but it is important to note that figures vary significantly between scenarios, affecting forecasts on Involuntary Displacement related income support.
@@ -237,8 +256,12 @@ A sensitivity analysis was performed for inflation rates, to address the first r
 
 *Figure 5 – GDP Projection Sensitivity Analysis*
 
->*** INSERT FIGURE 5 ***
+<p align="center">
 
+<img src="https://user-images.githubusercontent.com/88420563/230096421-3f3121ee-e9c2-49bf-ab8c-c9f8272393a0.png">
+
+</p>	
+	
 Holding all other variables constant, negative changes in inflation has a larger impact on GDP than a positive rise in inflation as seen in the graph, where a -2% change in inflation gives a Ꝕ38.9mil change to GDP while a 2% change in inflation gives a Ꝕ27.0mil change in GDP across all years. In turn, the less sensitive nature of GDP to higher inflation rates as compared to lower inflation rates suggests that Storslysia is more resilient to inflationary pressures, which is a favourable outcome in projecting future scheme payments compared to a less volatile GDP.
 
 # Recommendation
