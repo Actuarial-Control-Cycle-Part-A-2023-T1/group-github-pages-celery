@@ -86,42 +86,57 @@ Ultimately, the goal of the scheme is to reduce the proportion of involuntary di
 <img width="816" alt="Screen Shot 2023-04-05 at 8 18 42 pm" src="https://user-images.githubusercontent.com/113441885/230053206-824701b1-c51f-4828-8448-7038e0c8958b.png">
 
 # Pricing and Costs
-### Without the Program
+## Without the Program
 In both short-term and long-term timeframes, the frequency and severity of extreme weather events will vary under a range of future greenhouse gas emission scenarios (IPCC, 2021), which will affect the frequency of natural hazards, GDP, and household income. Based on historical weather-related hazard data, the economic costs without the program were estimated under a low and high emissions scenario, as summarised in Table 3.
-Table 3 – IPCC SSP Emission Scenarios
+*Table 3 – IPCC SSP Emission Scenarios*
+
 Emission Scenario	RCP and likely SSP
 Low	RCP2.6 (SSP1 – Sustainability1)
 High	RCP4.5 (SSP5 – Fossil-Fuelled Development2)
 1 – Assumes a gradual but persuasive shift towards sustainable development (IPCC, 2021).
 2 – Assumes rapid economic growth and energy-intensive lifestyles, powered by a strong reliance on fossil fuel energy (IPCC, 2021).
+
 These two scenarios represent the lowest and highest Representative Concentration Pathways (RCPs) considered by IPCC, as provided in the Shared Socioeconomic Pathways (SSPs) scenario data. However, it is worth noting that they do not represent the absolute maximum and minimum future emissions.
+
 2 major cost components were considered:
 -	Loss of income payments depending on the region of residence and severity of the natural hazard(s), and
 -	Cost of involuntary relocation, driven by property damage due to natural hazards.
-Cost of involuntary relocation
+
+### Cost of involuntary relocation
 A Generalized Linear Model with Gamma distribution and Log link was used to model the severity of property damage due to natural hazards. The base values inputted into the frequency projection model were determined through a weighted average of the annual event frequency from 1990, with larger weights assigned to more recent years to reflect up-to-date trends. 
+
 The overall property damage was estimated over a short-term timeframe of 10 years to 2030, and a long-term timeframe to 2100. Coastal and drought-related costs were excluded in the projections to reflect recent hazard-related experiences, as the latest occurrences of these events were in 1989 and 1993 respectively. This exclusion is immaterial to the overall projection, as they represent less than 3% of total historical costs across all regions.
-Figure 2 – Expected changes to property damage costs compared to current 10-year average.
+
+*Figure 2 – Expected changes to property damage costs compared to current 10-year average.*
+
+>***INSERT FIGURE 2 GRAPH****
  
 Figure 2 shows the expected changes to costs of hazards by 2030 and 2100 respectively, under both low and high-emission scenarios. While there are minor decreases in 2030 under both scenarios, by 2100, total costs under both scenarios are expected to increase significantly relative to the current 10-year average. Overall, costs related to Flooding, Hurricane and Other hazards are expected to increase materially, with region 2 being the most susceptible to these natural hazards.
-Loss of income
+
+### Loss of income
 Storslysia’s median household income and population were projected by applying the IPCC’s GDP and worldwide population projections (IPCC, 2021) over current census figures, under low and high emission scenarios. Key assumptions were established to estimate the total loss of income costs:
-•	The proportion of individuals whose income is affected equals the proportion of projected property damage within each region.
-•	Affected individuals are eligible to receive an income stream payment of 75% of the median household income in their region of residence for up to 8 weeks.
-Figure 3 – Expected loss of income payments under both timeframes and scenarios.
+* The proportion of individuals whose income is affected equals the proportion of projected property damage within each region.
+* Affected individuals are eligible to receive an income stream payment of 75% of the median household income in their region of residence for up to 8 weeks.
+
+*Figure 3 – Expected loss of income payments under both timeframes and scenarios.*
+
+>*** INSERT FIGURE 3 GRAPH***
  
 Figure 3 displays a similar trend to Figure 2, with loss of income payments increasing significantly in 2100 in both scenarios. This is primarily driven by the significant increase in both natural hazard frequency and severity in the future, with no effective mechanisms, such as voluntary relocation, to mitigate the climate risks.
-Overall costs compared to GDP
 
-Table 4 – Total projected costs expressed as a percentage of projected GDP.
+### Overall costs compared to GDP
+
+*Table 4 – Total projected costs expressed as a percentage of projected GDP.*
+
 	Low Emission Scenario	High Emission Scenario
 Year	2030	2100	2030	2100
 Costs (% of GDP)	14.66%	26.17%	15.95%	89.98%
 
 As observed from Table 4, without the Program’s proposed voluntary schemes, the costs of natural hazards far exceed the target cost of 10% of Storslysia’s GDP. Most notably, under the high emission scenario, costs more than double the projected GDP by 2100, driven primarily by the significant increase in property damage costs. 
+
 These estimated figures provide a benchmark for assessing the economic impact of the proposed program, which will be discussed in the following sub-section.
 
-### With the Program
+## With the Program
 The proposed program consists of both an involuntary scheme and a voluntary scheme, with the involuntary scheme behaving largely the same as described above. Table 5 summarises the average annual property damage divided by the total housing units in each region expressed as a proportion. From the analysis:
 
 * Regions 2 and 5 account for more than two-thirds of total proportional property damage. 
@@ -130,16 +145,19 @@ The proposed program consists of both an involuntary scheme and a voluntary sche
 
 Hence, our analysis shows that the voluntary scheme aims to relocate households in high-risk areas of regions 2, 4 and 5 to lower-risk regions 1 and 3. Region 6, which has a moderate risk of natural disasters, is neither eligible for voluntary relocation support nor considered a target for relocation. The decision to include or exclude certain regions from being targeted will depend on the application and climate risk trends in each area, which will be regularly reviewed.
 
-Table 5 –Property Damage Per Region as a Proportion of Housing Units.
+*Table 5 –Property Damage Per Region as a Proportion of Housing Units.*
+
 Region	1	2	3	4	5	6
 Proportion	2%	33%	4%	14%	38%	8%
 
 Property damage is used as the basis to calculate totals for voluntary relocation. Two thresholds are introduced being:
 * Damage factor: defined as the average proportion of total property value that is damaged during natural disasters (10%). 
 * Time between incidents: defined as the number of years between incidents for a household at risk (30 years).
+
 Factoring both thresholds, parameters are set for the scheme being that all households with a risk of damage higher than 10% of their total property value every 30 years would be relocated. Combined with the incentive of Ꝕ1000 moving costs per household, the results from Table 6 are derived. 
 
-Table 6 – Voluntary Relocation Costs for Home Buy-Back Scheme
+*Table 6 – Voluntary Relocation Costs for Home Buy-Back Scheme*
+
 Year	Cycle Number	Voluntary Relocation	Cost
 2023 and before	0	0%	Ꝕ0
 2024 – 2025	1	15%	Ꝕ17,638,087,278
@@ -147,8 +165,12 @@ Year	Cycle Number	Voluntary Relocation	Cost
 2028 – 2029 +	3	75%	Ꝕ88,190,436,391
 
 The remaining 25% of at-risk households not covered by the home buy-back scheme include households with property damage risk lower than the 10% of damage every 30 years. Analysis has concluded that below this threshold voluntary relocation of households would be more expensive than involuntary displacement support, should the event arise.
+
 Modelling these factors over time, the upfront investment in voluntary relocation will significantly reduce associated involuntary displacement costs. Projecting with 25% voluntary relocation and 75% involuntary displacement we arrive at figure four below. In reference to budget constraints of 10% of annual GDP, projections show that annual spending on damages from climate-related catastrophes approach the budget cap under SSP1 development and exceed the cap in the early 2070s under SSP5 development. With the program in place, an initial spike in costs is observed but over time the effects of these disasters are successfully controlled for the foreseeable future in both future scenario extremes to within the 10% annual budget. 
-Figure 4 – Scheme Cost Projections Across SSP Scenarios
+
+*Figure 4 – Scheme Cost Projections Across SSP Scenarios*
+
+>*** INSERT FIGURE 4 ***
 
 # Assumptions
 The IPCC’s SSPs importantly highlight projections on population growth, economic growth, and Green House Gas (GHG) emissions. In calculating income projections, present-day figures are indexed in line with GDP growth as outlined by the four major SSP scenarios. These scenarios provide estimates for future GDP, but it is important to note that figures vary significantly between scenarios, affecting forecasts on Involuntary Displacement related income support.
@@ -169,7 +191,9 @@ Lastly, the voluntary relocation model assumes households relocating to lower-ri
 
 # Data and Data Limitations
 Where inflation adjustments were made, the magnitude of future figures are significantly impacted by the sampling of past inflation data. If there were high initial inflation figures specifically, future amounts would be valued as substantially lower. These factors caused a degree of inconsistency within the results.
+
 Additionally, the inflation and interest rate datasets given indicated very volatile experiences in the past, where inflation and the 1-year risk-free rate variance between a 20-year bracket of 2001 to 2021 was 3.76% and 5.41% respectively combined with alternating rise and fall experiences in inflation and interest rate between consecutive years. This presented difficulties in forecasting future interest and inflation rates correctly and thus a moving average of the past 10 years was chosen as this allows short-term economic fluctuations to be smoothed out and a more stable long-term trend to be projected. Where errors and inconsistencies in the dataset were identified for example inflation rate of -999% in 2003, this was replaced by the average of the previous 10 years to prevent inaccurate projections.
+
 Furthermore, it was challenging to predict future income, housing and population data with the limited data given. With data from only two previous years, this brought limitations to our projections such as difficulties capturing all possible future outcomes, assessing long-term trends and patterns accurately and considering unforeseen events. When projecting future income, housing and population data, trends were identified from the inflation and interest rate data given and used as a basis to make informed assumptions about the future. 
 
 # Risk and Risk Mitigation Considerations
@@ -184,10 +208,17 @@ Below are potential key risks resulting from the social insurance program.
 | **Culture of dependence** <br><br> Impact: 4 <br><br> Likelihood: 2   |Individuals receiving income support can develop a culture of dependence on the program, where government assistance is relied upon rather than taking responsibility for their own financial wellbeing. <br><br> **Mitigation:** to prevent a culture of dependence, the program will only be paid for a defined benefit period, which is aimed at encouraging displaced individuals to regain their financial independence within a set period. |
 | **Political Change** <br><br> Impact: 3 <br><br> Likelihood: 3    |The program may be terminated prematurely due to changes in political decisions. As such, individuals may experience a change in the level or availability of financial assistance in times of catastrophic events. <br><br> **Mitigation:** adequate funding needs to be maintained to maintain the stability and longevity of this program, overall reducing political interference. |
 
+A sensitivity analysis was performed for inflation rates, to address the first risk of having an incorrect model and its subsequent impact on GDP as shown in Figure 5.
+
+*Figure 5 – GDP Projection Sensitivity Analysis*
+
+>*** INSERT FIGURE 5 ***
 
 Holding all other variables constant, negative changes in inflation has a larger impact on GDP than a positive rise in inflation as seen in the graph, where a -2% change in inflation gives a Ꝕ38.9mil change to GDP while a 2% change in inflation gives a Ꝕ27.0mil change in GDP across all years. In turn, the less sensitive nature of GDP to higher inflation rates as compared to lower inflation rates suggests that Storslysia is more resilient to inflationary pressures, which is a favourable outcome in projecting future scheme payments compared to a less volatile GDP.
+
 # Recommendation
 The devised program is strongly recommended within the suggested timeframe as it will ultimately reduce increasing future costs resulting from catastrophic climate occurrences to Storslysia’s economy. The strong results were determined using GLM modelling and other projections under two climate scenarios. As displayed, the social insurance program incentivises voluntary relocation to achieve the target of restricting costs to 10% of Storsylia’s yearly GDP, thus it is effective in obtaining the set-out objectives. We would also advise following the given metrics and frequencies to continuously monitor changes in the real world that could result in updates or adaptions in the program statistics.
+
 # References
 1.	Riahi, Keywan., et al. (2017). ‘The Shared Socioeconomic Pathways and their energy, land use, and greenhouse gas emissions implications: An overview’, Global Environmental Change, Volume 42, Pages 153-168. https://ourworldindata.org/explorers/ipcc-scenarios?facet=none&Metric=GDP&Rate=Per+capita&Region=Global&country=SSP1+-+Baseline~SSP2+-+Baseline~SSP3+-+Baseline~SSP4+-+Baseline~SSP5+-+Baseline
 2.	Farnham, Matthew. (2018). ‘Catastrophe Models: The Good, the Bad and the Ugly’, Prevention Web. Ambiental Risk. https://www.preventionweb.net/news/catastrophe-models-good-bad-and-ugly
