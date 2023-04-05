@@ -38,11 +38,11 @@ Our proposed program restricts the cost associated with relocation (voluntary or
 # Objectives
 ## Key metrics
 # Product Design
-## Involuntary Scheme
-## Voluntary Scheme
+### Involuntary Scheme
+### Voluntary Scheme
 # Pricing and Costs
-## Without the Program
-## With the Program
+### Without the Program
+### With the Program
 # Assumptions
 # Data and Data Limitations
 # Risk and Risk Mitigation Considerations
