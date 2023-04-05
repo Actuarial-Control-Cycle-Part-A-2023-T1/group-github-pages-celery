@@ -85,6 +85,21 @@ Ultimately, the goal of the scheme is to reduce the proportion of involuntary di
 ### Without the Program
 ### With the Program
 # Assumptions
+The IPCC’s SSPs importantly highlight projections on population growth, economic growth, and Green House Gas (GHG) emissions. In calculating income projections, present-day figures are indexed in line with GDP growth as outlined by the four major SSP scenarios. These scenarios provide estimates for future GDP, but it is important to note that figures vary significantly between scenarios, affecting forecasts on Involuntary Displacement related income support.
+
+Our calculations adjust for the effects of inflation, meaning all projected values can be directly compared in dollar amounts today. Where specified in the IPCC data, this adjustment is already performed so no further adjustment for inflation is considered. In all other scenarios, it was assumed that projected figures did not account for inflation. Annual future inflation figures were randomly sampled from the past 40 years of Storslysia inflation data and future figures were subsequently adjusted to the present day using these sampled rates.
+
+To project the economic impact of the involuntary scheme, these key assumptions were made:
+• Property damage estimates below a threshold of Ꝕ250 were assumed to be Ꝕ0 to account for the possibility that hazard events result in no property damage.
+• Historical property damage included replacement of household items and housing repairs.
+To project the economic impact of the voluntary scheme, these key assumptions were made:
+• The median value of owner-occupied housing units reflects the median value of all housing units within each respective region.
+• The median value of housing units will grow in line with inflationary expectations.
+• The risk associated with a region is based on averages of past property damage totals.
+• Lower-risk regions 1 and 3 have unlimited capacity to support new residents.
+
+Lastly, the voluntary relocation model assumes households relocating to lower-risk regions are no longer part of the regional risk pool, with total costs behaving differently to its original households. Once sufficient data is collected after initial cycles of buybacks, this assumption will be revised to provide a more realistic cost estimate of the voluntary scheme.
+
 # Data and Data Limitations
 # Risk and Risk Mitigation Considerations
 
