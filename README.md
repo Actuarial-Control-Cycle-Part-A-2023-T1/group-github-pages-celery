@@ -42,14 +42,18 @@ Climate events are extremely detrimental to Storslysia’s economy due to its hi
 This program is a long-term solution that consists of multiple stages. The following table illustrates the key metrics to be analysed throughout and the rationale behind them.
 
 *Table 1 – Key metrics used to monitor the program.*
+>***TABULATE TABLE 1***
 ![Capture](https://user-images.githubusercontent.com/102905880/230059446-7eec3f9f-a939-4204-8e58-e04d4419553d.PNG)
 
 # Program Design
 The proposed program provides financial support for households in high-risk areas to voluntarily relocate or to recover after being affected by a catastrophic event. Households are encouraged to voluntarily relocate through a buyback scheme which provides financial assistance to encourage residents in vulnerable areas to voluntarily relocate to a lower-risk area, therefore minimising costs from the involuntary scheme. Properties bought back will become government-owned and deemed unhabitable after the buyback.
 
 ## Voluntary Scheme
+
+>***TABULATE VOLUNTARY SCHEME***
+
 ### Eligiblity to claim
-Citizens over 18 years old are eligible to apply for the buyback scheme if they are an owner of a property in a high-risk region. Only one owner per property can apply. Applications are submitted every two years and reviewed on a case-by-case basis and the top 2000 properties most at risk of property damage from a catastrophic event are selected. Successful applicants must relocate to a low-risk region. The number of eligible properties is determined by ensuring that the objectives are met and adjusted according to the target voluntary relocation proportions in Table 2.
+Citizens over 18 years old are eligible to apply for the buyback scheme if they are an owner of a property in a high-risk region. Only one owner per property can apply. Applications are submitted every two years and reviewed on a case-by-case basis and the top 2000 properties most at risk of property damage from a catastrophic event are selected. Successful applicants must relocate to a low-risk region. The number of eligible properties is determined by ensuring that the objectives are met and adjusted according to the target voluntary relocation proportions in Table 1.
 
 ### Coverage
 **Home buyback** – Claimants receive a lump sum valued at 20% above the market price of the property they currently own. The additional 20% of the lump sum above the market price serves as a financial incentive for households in high-risk areas to relocate to lower areas. Furthermore, this ensures that they can afford homes in lower-risk areas as the market prices in such areas are expected to be more costly. It also accounts for the temporary loss of income due to frictional unemployment.
@@ -60,12 +64,15 @@ If a household has multiple owners, a single payment is made to the applicant an
 ### Other features and requirements
 **Application review** – Properties eligible for the buyback scheme will be selected based on factors such as whether the property had been damaged due to a catastrophic event in the past and the likelihood of a severe catastrophic event in the future. Furthermore, the applicant must have owned a home in the vulnerable region for a sufficient length of time.
 
-**Low/High-risk regions** – Low-risk regions include regions 1 and 3. High- risk regions include regions 2, 4 and 5. These will be reviewed every year. The risk rating of regions is determined through past experience, including the frequency of catastrophic events and total property damage incurred.
+**Low/High-risk regions** – Low-risk regions include regions 1 and 3. High-risk regions include regions 2, 4 and 5. These will be reviewed every year. The risk rating of regions is determined through past experience, including the frequency of catastrophic events and total property damage incurred.
 
 ### Additional incentives
 **Government land acquisition** – To support the buyback scheme, Storslysia’s government will acquire land in low-risk areas and begin development. Suitable areas will be discussed in community consultations with relevant stakeholders. According to King et al., some households may be resistant to voluntarily relocating due to longevity of residence in the community, reduced incomes of retirees and lack of time available to restart elsewhere. Successful applicants can choose to move to any lower-risk region or relocate to a property on land acquired by the government. The latter option provides an opportunity for high-risk regions to maintain a sense of community after relocating and reduce the burden of searching for a home.
 
 ## Involuntary Scheme
+
+>***TABULATE INVOLUNTARY SCHEME***
+
 ### Eligibility to claim
 Citizens over 18 years old are eligible to apply if their property was damaged or they were forced to cease work due to a catastrophic event. The address of the covered property must be the claimant’s main residence address.
 
@@ -83,12 +90,23 @@ Metrics for both voluntary and involuntary schemes detailed in Objectives will b
 
 Ultimately, the goal of the scheme is to reduce the proportion of involuntary displacement. Taking the amount of involuntary displacement before the implementation of the scheme as 100%, the scheme aims to decrease the need for displacement by 15%, 25% and 35% through three cycles respectively. These figures are summarised below in Table 2.
 
+*Figure 1 – Home Buy-Back Scheme Implementation Timeline*
+
+>***REINSERT FIGURE 1***
+
+*Table 2 – Target Voluntary Relocation Figures for Home Buy-Back Scheme*
+
+>***REDO TABLE 2***
+
 <img width="816" alt="Screen Shot 2023-04-05 at 8 18 42 pm" src="https://user-images.githubusercontent.com/113441885/230053206-824701b1-c51f-4828-8448-7038e0c8958b.png">
 
 # Pricing and Costs
 ## Without the Program
 In both short-term and long-term timeframes, the frequency and severity of extreme weather events will vary under a range of future greenhouse gas emission scenarios (IPCC, 2021), which will affect the frequency of natural hazards, GDP, and household income. Based on historical weather-related hazard data, the economic costs without the program were estimated under a low and high emissions scenario, as summarised in Table 3.
+
 *Table 3 – IPCC SSP Emission Scenarios*
+
+>***TABULATE TABLE 3***
 
 Emission Scenario	RCP and likely SSP
 Low	RCP2.6 (SSP1 – Sustainability1)
@@ -128,6 +146,8 @@ Figure 3 displays a similar trend to Figure 2, with loss of income payments incr
 
 *Table 4 – Total projected costs expressed as a percentage of projected GDP.*
 
+>***RETABULATE TABLE 4***
+
 	Low Emission Scenario	High Emission Scenario
 Year	2030	2100	2030	2100
 Costs (% of GDP)	14.66%	26.17%	15.95%	89.98%
@@ -147,6 +167,8 @@ Hence, our analysis shows that the voluntary scheme aims to relocate households 
 
 *Table 5 –Property Damage Per Region as a Proportion of Housing Units.*
 
+>***RETABULATE TABLE 5***
+
 Region	1	2	3	4	5	6
 Proportion	2%	33%	4%	14%	38%	8%
 
@@ -157,6 +179,8 @@ Property damage is used as the basis to calculate totals for voluntary relocatio
 Factoring both thresholds, parameters are set for the scheme being that all households with a risk of damage higher than 10% of their total property value every 30 years would be relocated. Combined with the incentive of Ꝕ1000 moving costs per household, the results from Table 6 are derived. 
 
 *Table 6 – Voluntary Relocation Costs for Home Buy-Back Scheme*
+
+>***RETABULATE TABLE 6***
 
 Year	Cycle Number	Voluntary Relocation	Cost
 2023 and before	0	0%	Ꝕ0
@@ -170,7 +194,7 @@ Modelling these factors over time, the upfront investment in voluntary relocatio
 
 *Figure 4 – Scheme Cost Projections Across SSP Scenarios*
 
->*** INSERT FIGURE 4 ***
+>***INSERT FIGURE 4 (2)***
 
 # Assumptions
 The IPCC’s SSPs importantly highlight projections on population growth, economic growth, and Green House Gas (GHG) emissions. In calculating income projections, present-day figures are indexed in line with GDP growth as outlined by the four major SSP scenarios. These scenarios provide estimates for future GDP, but it is important to note that figures vary significantly between scenarios, affecting forecasts on Involuntary Displacement related income support.
