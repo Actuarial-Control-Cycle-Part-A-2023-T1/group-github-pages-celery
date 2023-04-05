@@ -108,32 +108,40 @@ Figure 3 – Expected loss of income payments under both timeframes and scenario
  
 Figure 3 displays a similar trend to Figure 2, with loss of income payments increasing significantly in 2100 in both scenarios. This is primarily driven by the significant increase in both natural hazard frequency and severity in the future, with no effective mechanisms, such as voluntary relocation, to mitigate the climate risks.
 Overall costs compared to GDP
+
 Table 4 – Total projected costs expressed as a percentage of projected GDP.
 	Low Emission Scenario	High Emission Scenario
 Year	2030	2100	2030	2100
 Costs (% of GDP)	14.66%	26.17%	15.95%	89.98%
+
 As observed from Table 4, without the Program’s proposed voluntary schemes, the costs of natural hazards far exceed the target cost of 10% of Storslysia’s GDP. Most notably, under the high emission scenario, costs more than double the projected GDP by 2100, driven primarily by the significant increase in property damage costs. 
 These estimated figures provide a benchmark for assessing the economic impact of the proposed program, which will be discussed in the following sub-section.
 
 ### With the Program
 The proposed program consists of both an involuntary scheme and a voluntary scheme, with the involuntary scheme behaving largely the same as described above. Table 5 summarises the average annual property damage divided by the total housing units in each region expressed as a proportion. From the analysis:
-•	Regions 2 and 5 account for more than two-thirds of total proportional property damage. 
-•	Regions 4 and 6 are moderately affected by natural disasters.
-•	Regions 1 and 3 experience very little proportional damage from natural disasters.
+
+* Regions 2 and 5 account for more than two-thirds of total proportional property damage. 
+* Regions 4 and 6 are moderately affected by natural disasters.
+* Regions 1 and 3 experience very little proportional damage from natural disasters.
+
 Hence, our analysis shows that the voluntary scheme aims to relocate households in high-risk areas of regions 2, 4 and 5 to lower-risk regions 1 and 3. Region 6, which has a moderate risk of natural disasters, is neither eligible for voluntary relocation support nor considered a target for relocation. The decision to include or exclude certain regions from being targeted will depend on the application and climate risk trends in each area, which will be regularly reviewed.
+
 Table 5 –Property Damage Per Region as a Proportion of Housing Units.
 Region	1	2	3	4	5	6
 Proportion	2%	33%	4%	14%	38%	8%
+
 Property damage is used as the basis to calculate totals for voluntary relocation. Two thresholds are introduced being:
-•	Damage factor: defined as the average proportion of total property value that is damaged during natural disasters (10%). 
-•	Time between incidents: defined as the number of years between incidents for a household at risk (30 years).
+* Damage factor: defined as the average proportion of total property value that is damaged during natural disasters (10%). 
+* Time between incidents: defined as the number of years between incidents for a household at risk (30 years).
 Factoring both thresholds, parameters are set for the scheme being that all households with a risk of damage higher than 10% of their total property value every 30 years would be relocated. Combined with the incentive of Ꝕ1000 moving costs per household, the results from Table 6 are derived. 
+
 Table 6 – Voluntary Relocation Costs for Home Buy-Back Scheme
 Year	Cycle Number	Voluntary Relocation	Cost
 2023 and before	0	0%	Ꝕ0
 2024 – 2025	1	15%	Ꝕ17,638,087,278
 2026 – 2027	2	40%	Ꝕ47,034,899,408
 2028 – 2029 +	3	75%	Ꝕ88,190,436,391
+
 The remaining 25% of at-risk households not covered by the home buy-back scheme include households with property damage risk lower than the 10% of damage every 30 years. Analysis has concluded that below this threshold voluntary relocation of households would be more expensive than involuntary displacement support, should the event arise.
 Modelling these factors over time, the upfront investment in voluntary relocation will significantly reduce associated involuntary displacement costs. Projecting with 25% voluntary relocation and 75% involuntary displacement we arrive at figure four below. In reference to budget constraints of 10% of annual GDP, projections show that annual spending on damages from climate-related catastrophes approach the budget cap under SSP1 development and exceed the cap in the early 2070s under SSP5 development. With the program in place, an initial spike in costs is observed but over time the effects of these disasters are successfully controlled for the foreseeable future in both future scenario extremes to within the 10% annual budget. 
 Figure 4 – Scheme Cost Projections Across SSP Scenarios
