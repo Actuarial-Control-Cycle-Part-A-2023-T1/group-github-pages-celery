@@ -75,7 +75,7 @@ Metrics for both voluntary and involuntary schemes detailed in Objectives will b
 
 Ultimately, the goal of the scheme is to reduce the proportion of involuntary displacement. Taking the amount of involuntary displacement before the implementation of the scheme as 100%, the scheme aims to decrease the need for displacement by 15%, 25% and 35% through three cycles respectively. These figures are summarised below in Table 2.
 
-
+<img width="816" alt="Screen Shot 2023-04-05 at 8 18 42 pm" src="https://user-images.githubusercontent.com/113441885/230053206-824701b1-c51f-4828-8448-7038e0c8958b.png">
 
 # Pricing and Costs
 ### Without the Program
