@@ -64,9 +64,10 @@ Citizens over 18 years old are eligible to apply if their property was damaged o
 
 ### Coverage
 **Home and property damage** – Affected households are entitled to small claims lower than Ꝕ500, while the reimbursement of additional costs will require manual review. Triaging claims aims to minimise costs associated with claims investigation. Home and property damage claims include the replacement of household items and housing repairs.
+
 **Loss of income payments** – If affected residents are temporarily unable to work after the catastrophic event, they are eligible to receive 75% of their income for 8 weeks, capped at Storslysia’s median income.
-**Accommodation expenses** – If the property becomes uninhabitable following the catastrophic event, residents are eligible to be compensated for accommodation expenses for 2 weeks.
-If the property at risk was rented to a tenant, the landlord is entitled to home and property damage coverage while the tenant may receive loss of income and accommodation expenses if eligible.
+
+**Accommodation expenses** – If the property becomes uninhabitable following the catastrophic event, residents are eligible to be compensated for accommodation expenses for 2 weeks. If the property at risk was rented to a tenant, the landlord is entitled to home and property damage coverage while the tenant may receive loss of income and accommodation expenses if eligible.
 
 ### Implementation timeline
 The timeline in Figure 1 details timeframes for the implementation of the program. There are three cycles of the scheme each being two years in length. The program aims to prioritise individuals most vulnerable to natural disasters within the community and scale to cover proportionally more households over time. Towards the second half of each cycle, there are opportunities for review both internal and external. Community members are consulted for feedback which is evaluated by the committee alongside statistical information to streamline the process. These review cycles identify points of optimisation within the program to improve both implementation efficiency and cost, allowing for the scheme to effectively help those in need in subsequent iterations.
