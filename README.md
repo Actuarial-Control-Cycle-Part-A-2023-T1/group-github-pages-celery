@@ -47,13 +47,36 @@ Citizens over 18 years old are eligible to apply for the buyback scheme if they 
 
 ### Coverage
 **Home buyback** – Claimants receive a lump sum valued at 20% above the market price of the property they currently own. The additional 20% of the lump sum above the market price serves as a financial incentive for households in high-risk areas to relocate to lower areas. Furthermore, this ensures that they can afford homes in lower-risk areas as the market prices in such areas are expected to be more costly. It also accounts for the temporary loss of income due to frictional unemployment.
+
 **Moving costs** – Claimants can reimburse up to a maximum of Ꝕ1000 in moving costs incurred.
 If a household has multiple owners, a single payment is made to the applicant and the distribution of funds is up to their discretion.
 
-## Involuntary Scheme
+### Other features and requirements
+**Application review** – Properties eligible for the buyback scheme will be selected based on factors such as whether the property had been damaged due to a catastrophic event in the past and the likelihood of a severe catastrophic event in the future. Furthermore, the applicant must have owned a home in the vulnerable region for a sufficient length of time.
+**Low/High-risk regions** – Low-risk regions include regions 1 and 3. High- risk regions include regions 2, 4 and 5. These will be reviewed every year. The risk rating of regions is determined through past experience, including the frequency of catastrophic events and total property damage incurred.
 
-### Involuntary Scheme
-### Voluntary Scheme
+### Additional incentives
+**Government land acquisition** – To support the buyback scheme, Storslysia’s government will acquire land in low-risk areas and begin development. Suitable areas will be discussed in community consultations with relevant stakeholders. According to King et al., some households may be resistant to voluntarily relocating due to longevity of residence in the community, reduced incomes of retirees and lack of time available to restart elsewhere. Successful applicants can choose to move to any lower-risk region or relocate to a property on land acquired by the government. The latter option provides an opportunity for high-risk regions to maintain a sense of community after relocating and reduce the burden of searching for a home.
+
+## Involuntary Scheme
+### Eligibility to claim
+Citizens over 18 years old are eligible to apply if their property was damaged or they were forced to cease work due to a catastrophic event. The address of the covered property must be the claimant’s main residence address.
+
+### Coverage
+**Home and property damage** – Affected households are entitled to small claims lower than Ꝕ500, while the reimbursement of additional costs will require manual review. Triaging claims aims to minimise costs associated with claims investigation. Home and property damage claims include the replacement of household items and housing repairs.
+**Loss of income payments** – If affected residents are temporarily unable to work after the catastrophic event, they are eligible to receive 75% of their income for 8 weeks, capped at Storslysia’s median income.
+**Accommodation expenses** – If the property becomes uninhabitable following the catastrophic event, residents are eligible to be compensated for accommodation expenses for 2 weeks.
+If the property at risk was rented to a tenant, the landlord is entitled to home and property damage coverage while the tenant may receive loss of income and accommodation expenses if eligible.
+
+### Implementation timeline
+The timeline in Figure 1 details timeframes for the implementation of the program. There are three cycles of the scheme each being two years in length. The program aims to prioritise individuals most vulnerable to natural disasters within the community and scale to cover proportionally more households over time. Towards the second half of each cycle, there are opportunities for review both internal and external. Community members are consulted for feedback which is evaluated by the committee alongside statistical information to streamline the process. These review cycles identify points of optimisation within the program to improve both implementation efficiency and cost, allowing for the scheme to effectively help those in need in subsequent iterations.
+
+Metrics for both voluntary and involuntary schemes detailed in Objectives will be re-evaluated and claim amounts and the number of eligible households will be adjusted accordingly.
+
+Ultimately, the goal of the scheme is to reduce the proportion of involuntary displacement. Taking the amount of involuntary displacement before the implementation of the scheme as 100%, the scheme aims to decrease the need for displacement by 15%, 25% and 35% through three cycles respectively. These figures are summarised below in Table 2.
+
+
+
 # Pricing and Costs
 ### Without the Program
 ### With the Program
