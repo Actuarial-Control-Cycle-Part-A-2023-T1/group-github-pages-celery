@@ -21,7 +21,7 @@ This program is a long-term solution that consists of multiple stages. The follo
 *Table 1 – Key metrics used to monitor the program.*
 
 | Metrics  | Frequency | Reason |
-| ------------- | ------------- |--------------|
+| ------------- | ------------- |---------------|
 | Total pay-outs as a percentage of GDP  | Annually  | Confirms Storslysia is on track to remain financially sound with costs not exceeding 10% of the year’s GDP. |
 | Projected costs  | At the end of each buyback cycle and annually after 2029|Ensures that the future costs continue to remain under 10% of the year’s GDP using up-to-date data for accurate reprojection results. A review to check opportunities to reduce costs can be conducted and implemented to adapt.|
 | Natural disaster occurrence| Annually  |Allows for adjustments for better model accuracy and adjustment to application criteria if risk zone information changes.|
