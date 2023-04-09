@@ -84,7 +84,7 @@ Ultimately, the goal of the scheme is to reduce the proportion of involuntary di
 *Table 2 – Target Voluntary Relocation Figures for Home Buy-Back Scheme*
 
 |   |  | Target Proportion EOY|Target Proportion EOY |
-| ------------- | ------------- | ------------- | ------------- |
+| ------------- | -------------- | ------------- | ------------- |
 |  Year | Cycle Number | Voluntary Relocation | Involuntary Displacement |
 | 2023 and before  | 0  |  0% |  100%  |
 | 2024-2025  | 1  |  15%  |  85% |
