@@ -1,5 +1,3 @@
-![](Actuarial.gif)
-
 # Relocation Social Insurance Program - Storslysia Case Study
 CELery - University of New South Wales
 
