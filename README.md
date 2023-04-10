@@ -77,7 +77,7 @@ Ultimately, the goal of the scheme is to reduce the proportion of involuntary di
 
 <p align="center">
 
-![Timeline](https://user-images.githubusercontent.com/102905880/230885519-35eced7e-0cd1-4d05-9d38-80af6cbe1063.PNG)
+![Timeline](https://raw.githubusercontent.com/Actuarial-Control-Cycle-Part-A-2023-T1/group-github-pages-celery/main/Timeline.PNG)
 
 </p>
 
