@@ -27,6 +27,7 @@ The final program to be utilised offers two solutions to minimise cost and maxim
 Our proposed program restricts the cost associated with relocation (voluntary or climate-induced) to 10% of Storslysia’s GDP every year. This is significantly lower than without the program and shields the economy from negative financial ramifications. We recommend that both streams of the program be run simultaneously as promoting voluntary relocation will greatly reduce larger costs down the line resulting from forced displacement.
 
 <div id='id-section2'/>
+
 # Objectives
 Climate events are extremely detrimental to Storslysia’s economy due to its high level of uncertainty and the severity of pay-out values when those events do occur. To shield the economy from suffering the worst, this report focuses on mitigating household impact costs. Our objective is to design a social insurance program to manage Storslysia’s exposure to displacement risk; we address both voluntary and forced displacement and focus secondarily on lowering geographic risk and avoiding large disparities in the socio-economic status. There is a strong need to include incentives for voluntary displacement as it harbours much lower costs than if an involuntary claim is made. Climate incidences are often long occurring and to derive a program that is sustainable, we have factored in the community’s needs. Our solution incorporates community consultation and feedback to tailor and adapt the program through both qualitative and quantitative metrics. 
 
@@ -45,6 +46,7 @@ This program is a long-term solution that consists of multiple stages. The follo
 | Community satisfaction | At the end of each buyback cycle |Incorporate the community’s feedback and opinions into the program.|
 
 <div id='id-section3'/>
+
 # Program Design
 The proposed program provides financial support for households in high-risk areas to voluntarily relocate or to recover after being affected by a catastrophic event. Households are encouraged to voluntarily relocate through a buyback scheme which provides financial assistance to encourage residents in vulnerable areas to voluntarily relocate to a lower-risk area, therefore minimising costs from the involuntary scheme. Properties bought back will become government-owned and deemed unhabitable after the buyback.
 
@@ -107,6 +109,7 @@ Ultimately, the goal of the scheme is to reduce the proportion of involuntary di
 | 2028-2029+  | 3  |  75%  |  25%  |
 
 <div id='id-section4'/>
+
 # Pricing and Costs
 ## Without the Program
 In both short-term and long-term timeframes, the frequency and severity of extreme weather events will vary under a range of future greenhouse gas emission scenarios (IPCC, 2021), which will affect the frequency of natural hazards, GDP, and household income. Based on historical weather-related hazard data, the economic costs without the program were estimated under a low and high emissions scenario, as summarised in Table 3.
@@ -209,6 +212,7 @@ Modelling these factors over time, the upfront investment in voluntary relocatio
 <p align="center"> <img src="https://user-images.githubusercontent.com/88420563/230096183-5731e942-2465-448d-8182-cda537ffbe26.png"><img src="https://user-images.githubusercontent.com/88420563/230096204-bfa59ac8-60e8-4b49-b1a7-4b4781ffa552.png"></p>
 
 <div id='id-section5'/>
+
 # Assumptions
 The IPCC’s SSPs importantly highlight projections on population growth, economic growth, and Green House Gas (GHG) emissions. In calculating income projections, present-day figures are indexed in line with GDP growth as outlined by the four major SSP scenarios. These scenarios provide estimates for future GDP, but it is important to note that figures vary significantly between scenarios, affecting forecasts on Involuntary Displacement related income support.
 
@@ -227,6 +231,7 @@ To project the economic impact of the voluntary scheme, these key assumptions we
 Lastly, the voluntary relocation model assumes households relocating to lower-risk regions are no longer part of the regional risk pool, with total costs behaving differently to its original households. Once sufficient data is collected after initial cycles of buybacks, this assumption will be revised to provide a more realistic cost estimate of the voluntary scheme.
 
 <div id='id-section6'/>
+
 # Data and Data Limitations
 Where inflation adjustments were made, the magnitude of future figures are significantly impacted by the sampling of past inflation data. If there were high initial inflation figures specifically, future amounts would be valued as substantially lower. These factors caused a degree of inconsistency within the results.
 
@@ -235,6 +240,7 @@ Additionally, the inflation and interest rate datasets given indicated very vola
 Furthermore, it was challenging to predict future income, housing and population data with the limited data given. With data from only two previous years, this brought limitations to our projections such as difficulties capturing all possible future outcomes, assessing long-term trends and patterns accurately and considering unforeseen events. When projecting future income, housing and population data, trends were identified from the inflation and interest rate data given and used as a basis to make informed assumptions about the future. 
 
 <div id='id-section7'/>
+
 # Risk and Risk Mitigation Considerations
 
 Below are potential key risks resulting from the social insurance program.
@@ -260,10 +266,12 @@ A sensitivity analysis was performed for inflation rates, to address the first r
 Holding all other variables constant, negative changes in inflation has a larger impact on GDP than a positive rise in inflation as seen in the graph, where a -2% change in inflation gives a Ꝕ38.9mil change to GDP while a 2% change in inflation gives a Ꝕ27.0mil change in GDP across all years. In turn, the less sensitive nature of GDP to higher inflation rates as compared to lower inflation rates suggests that Storslysia is more resilient to inflationary pressures, which is a favourable outcome in projecting future scheme payments compared to a less volatile GDP.
 
 <div id='id-section8'/>
+
 # Recommendation
 The devised program is strongly recommended within the suggested timeframe as it will ultimately reduce increasing future costs resulting from catastrophic climate occurrences to Storslysia’s economy. The strong results were determined using GLM modelling and other projections under two climate scenarios. As displayed, the social insurance program incentivises voluntary relocation to achieve the target of restricting costs to 10% of Storsylia’s yearly GDP, thus it is effective in obtaining the set-out objectives. We would also advise following the given metrics and frequencies to continuously monitor changes in the real world that could result in updates or adaptions in the program statistics.
 
 <div id='id-section9'/>
+
 # References
 1.	Riahi, Keywan., et al. (2017). ‘The Shared Socioeconomic Pathways and their energy, land use, and greenhouse gas emissions implications: An overview’, Global Environmental Change, Volume 42, Pages 153-168. https://ourworldindata.org/explorers/ipcc-scenarios?facet=none&Metric=GDP&Rate=Per+capita&Region=Global&country=SSP1+-+Baseline~SSP2+-+Baseline~SSP3+-+Baseline~SSP4+-+Baseline~SSP5+-+Baseline
 2.	Farnham, Matthew. (2018). ‘Catastrophe Models: The Good, the Bad and the Ugly’, Prevention Web. Ambiental Risk. https://www.preventionweb.net/news/catastrophe-models-good-bad-and-ugly
