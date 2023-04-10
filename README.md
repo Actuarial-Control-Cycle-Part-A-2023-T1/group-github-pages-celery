@@ -1,9 +1,10 @@
-![image](https://user-images.githubusercontent.com/88420563/230890658-875517d2-65da-4af0-ba5c-85c3a662bdfd.png)
 
 # Relocation Social Insurance Program - Storslysia Case Study
 CELery - University of New South Wales
 
 Lenny Han, Alan Wang, Sharon Zhou, Emily Huynh, Claudia Shen
+
+![image](https://user-images.githubusercontent.com/88420563/230890658-875517d2-65da-4af0-ba5c-85c3a662bdfd.png)
 
 # My Table of content
 - [Executive Summary](#id-section1)
