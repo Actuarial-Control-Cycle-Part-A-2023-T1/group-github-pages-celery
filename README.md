@@ -1,5 +1,7 @@
 ![](Actuarial.gif)
 
+<title> CELery ACTL4001/5100 Assignment Report </title>
+
 # Relocation Social Insurance Program - Storslysia Case Study
 CELery - University of New South Wales
 
