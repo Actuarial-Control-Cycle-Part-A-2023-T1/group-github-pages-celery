@@ -100,8 +100,8 @@ In both short-term and long-term timeframes, the frequency and severity of extre
 
 | Emission Scenario  | RCP and likely SSP |
 | ------------- | ------------- |
-| Low  | RCP2.6 (SSP1 – Sustainability1)|
-| High  | RCP4.5 (SSP5 – Fossil-Fuelled Development2) |	
+| Low  | RCP2.6 (SSP1 – Sustainability<sub>1</sub>)|
+| High  | RCP4.5 (SSP5 – Fossil-Fuelled Development<sub>2</sub>) |	
 
 *1 – Assumes a gradual but persuasive shift towards sustainable development (IPCC, 2021).*
 <br>*2 – Assumes rapid economic growth and energy-intensive lifestyles, powered by a strong reliance on fossil fuel energy (IPCC, 2021).*
