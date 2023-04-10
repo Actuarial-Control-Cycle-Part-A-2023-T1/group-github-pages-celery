@@ -5,12 +5,12 @@ CELery - University of New South Wales
 Lenny Han, Alan Wang, Sharon Zhou, Emily Huynh, Claudia Shen
 
 
-# My Table of content
+# Table of Contents
 - [Executive Summary](#id-section1)
 - [Objectives](#id-section2)
 - [Program Design](#id-section3)
-- [Assumptions](#id-section4)
-- [Program Design](#id-section5)
+- [Pricing and Costs](#id-section4)
+- [Assumptions](#id-section5)
 - [Data and Data Limitations](#id-section6)
 - [Risk and Risk Mitigation Considerations](#id-section7)
 - [Recommendation](#id-section8)
