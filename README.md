@@ -77,7 +77,7 @@ Ultimately, the goal of the scheme is to reduce the proportion of involuntary di
 
 <p align="center">
 
-![Timeline](https://user-images.githubusercontent.com/102905880/230885977-0dd2511b-e491-49c3-835d-490cbaf400c4.png)
+![Timeline](https://user-images.githubusercontent.com/102905880/230885977-0dd2511b-e491-49c3-835d-490cbaf400c4.PNG)
 
 </p>
 
