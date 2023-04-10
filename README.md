@@ -18,6 +18,7 @@ Lenny Han, Alan Wang, Sharon Zhou, Emily Huynh, Claudia Shen
 
 
 <div id='id-section1'/>
+
 # Executive Summary
 With climate-related catastrophes increasing over time in Storslysia, its residents face the imminent threat of displacement, and the economy faces a decline due to the costs of supporting impacted individuals. The team has been tasked with alleviating the adverse financial impacts of climate change by designing and implementing a long-term social insurance program. This report will outline the program’s design and the method for pricing under two climate scenarios.
 
